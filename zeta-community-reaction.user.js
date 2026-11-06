@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         제타 커뮤니티 반응 (모바일 + 누적 선택 + 말투 프리셋)
+// @name         제타 실시간 커뮤니티 반응 (모바일 + 누적 선택 + 말투 프리셋)
 // @namespace    https://github.com/casualJH/zeta-community-reaction-mobile
 // @version      1.1.1
 // @description  모바일 Safari 버튼 위치 보정, 최근 5개·10개 누적 선택 및 말투 프리셋 지원
